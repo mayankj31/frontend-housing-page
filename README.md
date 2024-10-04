@@ -1,4 +1,4 @@
-# Regions MyMortgage Dashboard
+# Regions Mortgage Dashboard
 
 A responsive web page designed for the Regions Mortgage platform that provides a clean and intuitive user interface for customer login and mortgage account management.
 
@@ -30,14 +30,6 @@ A responsive web page designed for the Regions Mortgage platform that provides a
 
 4. **Responsive Design**:
    - The layout adjusts to various screen sizes, making it mobile-friendly.
-
-## Screenshots
-
-### Tooltip
-![Tooltip](link-to-image)
-
-### Login Page
-![Login Page](link-to-image)
 
 ## Installation
 
